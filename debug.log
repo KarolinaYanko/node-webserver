@@ -1,0 +1,8 @@
+{"level":"info","message":"Got request GET /echo?message=log-me-pls","timestamp":"2015-01-13T16:04:34.468Z"}
+{"level":"debug","message":"Echo: log-me-pls","timestamp":"2015-01-13T16:04:34.471Z"}
+{"level":"info","message":"Got request GET /echo?message=log-me-pls","timestamp":"2015-01-13T16:04:37.798Z"}
+{"level":"debug","message":"Echo: log-me-pls","timestamp":"2015-01-13T16:04:37.798Z"}
+{"level":"info","message":"Got request GET /echo?message=log-me-pls","timestamp":"2015-01-13T16:04:38.417Z"}
+{"level":"debug","message":"Echo: log-me-pls","timestamp":"2015-01-13T16:04:38.417Z"}
+{"level":"info","message":"Got request GET /echo?message=log-me-pls","timestamp":"2015-01-13T16:04:38.881Z"}
+{"level":"debug","message":"Echo: log-me-pls","timestamp":"2015-01-13T16:04:38.881Z"}
